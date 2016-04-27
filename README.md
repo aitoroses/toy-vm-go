@@ -4,10 +4,10 @@
 
 # Status
 - [x] Bytecode interpreter
-- [] Program to bytecode compiler
-- [] CLI tool
-- [] Implement a higher level language compiler with this VM bytecode as backend
-- [] Explore some other VM features
+- [ ] Program to bytecode compiler
+- [ ] CLI tool
+- [ ] Implement a higher level language compiler with this VM bytecode as backend
+- [ ] Explore some other VM features
 
 # Currently implemented instruction set
 
