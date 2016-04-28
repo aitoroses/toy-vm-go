@@ -1,4 +1,4 @@
-package VmStruct
+package vm
 
 const (
 	// A register

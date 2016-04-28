@@ -1,4 +1,4 @@
-package VmInstructions
+package vm
 
 const (
 	// PSH instruction
